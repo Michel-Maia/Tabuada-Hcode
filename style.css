@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.content-tabuada {
+    width: 100%;
+    text-align: center;
+    max-width: 500px;
+    background-color: #fff;
+    margin: auto;
+    padding: 20px;
+}
+
+footer {
+    font-size: .8em;
+    text-align: center;
+}
